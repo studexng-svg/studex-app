@@ -38,3 +38,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Firebase / Google services — contains API keys
+google-services.json
+GoogleService-Info.plist
